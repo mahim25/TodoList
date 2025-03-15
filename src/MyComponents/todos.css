@@ -1,0 +1,9 @@
+.container{
+  position: relative;
+  min-width: 100%;
+  min-height: 40vh;
+}
+.cont-title{
+    margin: 20px auto;
+
+}

@@ -1,0 +1,26 @@
+.cointainer {
+  position: relative;
+  min-width: 100%;
+  min-height: 40vh;
+  top:45px;
+  padding: 5px;
+}
+.btn {
+  margin-top: 10px;
+}
+.addtask {
+  display: flex;
+  flex-direction: column;
+}
+.addtask input {
+  width: 25%;
+  margin-top: 10px;
+  align-self: center;
+  text-align: center;
+}
+.addtask textarea {
+  width: 25%;
+  margin-top: 10px;
+  align-self: center;
+  text-align: center;
+}
